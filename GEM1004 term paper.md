@@ -1,21 +1,21 @@
-DUE SATURDAY, FEB 18 AT 5 PM.
-UPLOAD YOUR PAPER INTO YOUR TUTOR’S IVLE TURN-IN BIN.
-APPROX. 1000 WORDS. DOUBLE-SPACED. EITHER MS-WORD OR PDF.
-THIS IS NOT A RESEARCH PAPER. BUT IF YOU CITE SOURCES, YOU MUST FOOTNOTE/REFERENCE IN SOME CLEAR WAY. YOUR TUTOR must BE ABLE TO CHECK YOUR SOURCES.
-
-THE TOPIC
-In video 2.4, “Thinking Straight, Thinking in Circles” I explain Euthyphro’s problem in terms of a circle vs. grid metaphor. (I talk about this even more extensively in the book, in Chapter 5.) Life is full of circles: family, friends, fellow students, co-workers, the nation, race, ethnic group, religion, political party. And if Mars attacks, it’s humans against Martians! In class I suggested that most of life’s ethical dilemmas can be schematized as cases in which circles create friction.
-Instead of meshing like smooth gears in some efficient machine, they grind in confusing, painful, destructive, possibly tragic ways. We have divided loyalties. Whose side should I take? (I said that most questions Dear Prudence gets asked are of this form.) And then there’s justice. Justice might just be one circle among many. Maybe justice means loyalty to the justice system, i.e. it’s a circle of its own. Or maybe it’s an expression of some other group identity: the state or the nation. Something. There are different views about what justice is. (We’ll talk about it when we get to Plato’s Republic.) But one view of justice is that its essence lies in transcending circles. Circle means: partiality. Justice means: being impartial. Euthyphro is trying to be impartial. You shouldn’t think about whether the people involved are ‘close’ to you. You should see if they acted rightly. When circles clash, rise above them!
-Euthyphro isn’t very good at this, but it’s a popular moral strategy: eliminate circles, in effect, to generate overall, rational just order. We can probably all think of circles that we think ideally shouldn’t exist. Organized crime families. Belonging to a Mafia family can generate dilemmas. (Just watch any Hollywood movie about the Mafia, if you don’t believe me!) The best solution to all that is for the Mafia to stop existing! It’s not an institution that inherently deserves to be preserved, in any form. (Even though without the Mafia, a lot of good movies wouldn’t have been made!) Take a different example: ethnic groups. I’ll bet most of you will agree with the following: ideally, the way to deal with ethnic strife is for people to stop being loyal to their groups in ways that lead to strife. That’s just not a good, healthy dynamic. We don’t look at ethnic strife and say ‘that’s a healthy race war!’ Or even ‘well, violent ethnic strife is kind of inevitable, so you have to put up with it.’ No. Ideally, it should all go away. If someone writes in to Dear Prudence to say ‘I’m worried that my son or daughter is going to marry a member of an ethnic group I am always fighting with on the street,’ the answer is: ‘shame on you! You shouldn’t hate on members of other ethnic groups! Nothing good comes from that!’
-The issue can be more delicate, of course. People may hope their sons/daughters marry within their group not because they hate other ethnic groups—let alone wish to fight with them— but merely because they are worried about preserving a sense of identity, which they value. If your mom doesn’t want you to marry someone in Sweden, and move away, and she’ll have half-Swedish grandkids she has trouble talking to, that is totally understandable. That’s a genuine dilemma. (Feel free to write to Prudence to ask whether you should marry the Swede. Foreign exchange students here from Sweden, you think about it the opposite way.) Which brings me to: I doubt you would go so far as to say that all awareness of ethnic identity should cease. We think it’s great for people to be aware of their heritage, to have a sense of home, and for there to be ethnic diversity. Let a thousand flowers bloom! If the day ever came when people in Sweden couldn’t be distinguished from people in Singapore, I think we’d say something valuable had been lost. And that goes double if the people in Sweden and Singapore aren’t even aware of what they’ve lost (due to some kind of spectacular movement of globalized homogenization.)
-Are you with me so far? Sometimes we think circles are just bad and should be eliminated, ideally. Sometimes we think circles are bad, if they lead to conflict, but we wouldn’t go so far as to say they should ideally cease to exist altogether. Sometimes we think circles are great and vital and necessary—the root of everything worthwhile—even though they cause trouble.
-
-Now, the topic.
+## THE TOPIC
 
 Consider two circles: the family, the nation. Both of these units sound pretty good but can be highly problematic. (Just ask Euthyphro about his dad, if you don’t believe me that family relations can get problematic. Just look at the history of war to get an idea about how the nation state has not always been a pure engine of human welfare.) This being the way of it, some people have argued for the outright elimination of one or the other of these circles, or both, at least ideally. Ideally, we shouldn’t have separate families. Ideally, there shouldn’t be separate nations. (Of course, it’s consistent with this to say: realistically, we are stuck with both for the foreseeable future. But if anyone asks us how things should be, ideally, we say: erase this stuff. We won’t pretend it’s ideal to organize human life into circles that cause more trouble than they are worth, just because we can’t eliminate them, in practice.)
 
 1) Pick one of these circles, either the family or the nation.
 
 2) Make the most compelling argument you can for its elimination, ideally. (HINT: what problems does this thing cause that cannot be eliminated, so long as this thing continues to be? That’s got to be central to your argument, I’ll bet.)
+
+IF family:
++ Dunbar's Number
+-
+
+IF nation:
+- argue about failure of communism
+- problems that nationalism cause for the individual
+- significance of nationalism to cause conflicts on a huge scale
+- e.g. WWI and WWII
+- causes ethnic conflict
+- 
 
 3) Assess how compelling your argument is. (What is the most devastating counter-argument? What values would be lost, if this thing ceases to be?)
