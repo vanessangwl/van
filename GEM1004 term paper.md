@@ -8,7 +8,14 @@
 
 IF family:
 + Dunbar's Number
--
+- What good do groups give? Stable social relationships.
+- Dunbar’s number suggest the largest number is 100-250. However you might feel alienated.
+- Evidence for such groups to thrive in our urban society? – perhaps small enterprises? Communities?
+- Intentional communities/communes – how successful have they been?
+- Nation-states are alienating structures – “misfired” social instinct? Makes you do stupid shit for people you don’t know.
+- Plato suggested that the ideal size of a democracy is around 5000. (http://www.persee.fr/doc/pop_1634-2941_2002_num_57_2_18391)
+- Rousseau the larger the number of citizens, the smaller the average citizen’s share of the decision. The representation of each citizen becomes diluted and start to feel insignificant. (https://books.google.com.sg/books?id=RTarAAAAIAAJ&lpg=PA4&ots=B-8MrBrxSh&dq=plato%20democracy%20size&pg=PA6#v=onepage&q=plato%20democracy%20size&f=false)
+
 
 IF nation:
 - problems that nationalism cause for the individual
