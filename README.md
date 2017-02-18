@@ -6,8 +6,9 @@
 
 #### 2) Make the most compelling argument you can for its elimination, ideally. (HINT: what problems does this thing cause that cannot be eliminated, so long as this thing continues to be? That’s got to be central to your argument, I’ll bet.)
 
-# Nations are big social groups. Big social groups have a larger propensity towards conflict. Also, bigger isn’t necessarily better. However having a large number of people united can allow for great advances in technology, for example the space race.
+#### 3) Assess how compelling your argument is. (What is the most devastating counter-argument? What values would be lost, if this thing ceases to be?)
 
+Nations are big social groups. Big social groups have a larger propensity towards conflict. Also, bigger isn’t necessarily better. However having a large number of people united can allow for great advances in technology, for example the space race.
 
 In modern history nothing has caused as much destruction as conflict between nations. (cite WWI and WWII as examples)
 People are necessary for groups, not vice versa – groups exist to serve people
@@ -62,7 +63,6 @@ Humans aren't like this by accident. We're monsters because it was effective. An
 We could exist without these traits, hypothetically. People could still organize in a hierarchical system, united by a goal, and not have a concept of "us." There would instead be a group of individuals and their objective, a collaboration.
 Nationalism can be productive or destructive. With some tweaks to our cognition, we could even have nationalism without it being a barrier to collaboration. Being proud of one's heritage does not preclude working with your neighbor.
 
-#### 3) Assess how compelling your argument is. (What is the most devastating counter-argument? What values would be lost, if this thing ceases to be?)
 - Humans are capable of living in large, complex social structures, but that comes at the cost of more restrictive rules, laws and norms to maintain a stable, cohesive group
 (e.g. samaritan laws).
 
